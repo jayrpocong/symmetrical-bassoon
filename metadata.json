@@ -1,0 +1,8 @@
+{
+  "name": "VA Launchpad - Become a Virtual Assistant",
+  "description": "A comprehensive platform for aspiring virtual assistants to find their niche, build resumes, and land their first client using AI-powered tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

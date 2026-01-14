@@ -1,6 +1,6 @@
-npm install gray-matter marked
 
-{
+
+{ npm install gray-matter marked
   "name": "va-launchpad---become-a-virtual-assistant",
   "private": true,
   "version": "0.0.0",
